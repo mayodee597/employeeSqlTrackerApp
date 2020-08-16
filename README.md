@@ -1,1 +1,2 @@
 # employeeSqlTrackerApp
+This App enables a developer to build a solution for managing a company's employees using node, inquirer, console.table, and MySql NPM packages.  The App uses a command-line application to add view, update, and delete departments, employees, and their roles within the company.  The Url of the GitHub repository and a short video clip of the app's functionality were uploaded.  
